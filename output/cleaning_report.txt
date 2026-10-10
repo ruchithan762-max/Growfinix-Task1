@@ -1,0 +1,9 @@
+GROWFINIX TASK 1 — CLEANING REPORT
+Dataset type: Fictional practice data (not supplied by Growfinix)
+Property rows before cleaning: 10
+Duplicate listing rows found for review: 1
+Property rows after cleaning: 9
+Rows still missing ZIP codes: 2
+Historical sales rows read: 10
+Rows in merged output: 10
+Missing ZIP codes were not guessed; they remain blank pending a trusted lookup.

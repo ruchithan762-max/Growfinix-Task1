@@ -1,0 +1,11 @@
+PropertyID,Address,City,ZipCode,PropertyType,ListingPrice,Bedrooms,Bathrooms,SaleID,SaleDate,SalePrice
+P101,12 Main Street,Manresa,08241,Apartment,210000,2,1,S501,2022-05-12,205000
+P101,12 Main Street,Manresa,08241,Apartment,210000,2,1,S510,2024-03-05,212000
+P102,8 Oak Avenue,Manresa,,House,325000,3,2,S502,2021-11-03,310000
+P103,44 Pine Road,Manresa,08242,Apartment,195000,2,1,S503,2023-02-18,190000
+P105,5 River Lane,Manresa,08243,Townhouse,280000,3,2,S504,2020-08-27,270000
+P106,27 Hill Street,Manresa,08241,Apartment,175000,1,1,S505,2024-01-09,172000
+P107,90 Garden Road,Manresa,08244,House,410000,4,3,S506,2022-09-14,400000
+P108,3 Lake View,Manresa,08242,Apartment,220000,2,2,S507,2023-06-22,215000
+P109,15 Market Street,Manresa,,Townhouse,260000,3,2,S508,2021-04-30,255000
+P110,62 Forest Way,Manresa,08245,House,390000,4,2,S509,2020-12-16,380000
